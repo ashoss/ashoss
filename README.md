@@ -1,7 +1,7 @@
-### Hi👋 I'm Ash, I have a long time interest in AOSP and I am trying to learn more.
+### Hi👋 I'm Ash, I have a long time interest in Android and AOSP and I am trying to learn more.
 
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=ashoss&show_icons=true&theme=purple&count_private=true)](https://github.com/ashoss)
+[![my github stats](https://github-readme-stats.vercel.app/api?username=ashoss&show_icons=true&theme=blue&count_private=true)](https://github.com/ashoss)
 
 <!--
 **ashoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
