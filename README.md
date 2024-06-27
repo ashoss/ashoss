@@ -1,7 +1,10 @@
-## Hi there 👋
+### Hi👋 I'm Ash, I have a long time interest in AOSP and I am trying to learn more.
+
+
+[![my github stats](https://github-readme-stats.vercel.app/api?username=ashoss&show_icons=true&theme=purple&count_private=true)](https://github.com/ashoss)
 
 <!--
-**ashoss/ashoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ashoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
