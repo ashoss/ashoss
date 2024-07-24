@@ -3,7 +3,7 @@
 
 ### Devices I own:
 - Pixel 7 Pro ( cheetah )
-- Pixel 4a 5G ( bramble )
+- Pixel 5 ( redfin )
 - Nothing Phone 2 ( pong )
 - POCO F3 ( alioth )
 - POCO F6 ( peridot )
