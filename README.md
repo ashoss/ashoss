@@ -1,15 +1,15 @@
-### Hi👋 I'm Ash, I have a long time interest in Android and AOSP and I am always trying to learn more. 
-##### Currently building AOSP for some of my devices, and playing around with apps and modules.
+### Hi👋 I'm Ash, I have a long time interest in Android and AOSP in both a personal and professinoal capacity. I am always keen to learn more. 
+##### Currently off sick indefinitely and using the free time to build AOSP for some of my devices, and play around with different apps and modules.
 
-### Devices I own:
+#### Devices I own:
 - Pixel 7 Pro ( cheetah )
 - Pixel 5 ( redfin )
 - Nothing Phone 2 ( pong )
-- POCO F3 ( alioth )
 - POCO F6 ( peridot )
+- POCO F3 ( alioth )
 - OnePlus 8 Pro ( instantnoodlep )
 - OnePlus 7 Pro ( guacamole )
-- And a few other older devices.
+- And a few more older OnePlus and Pixel devices.
 
 #####  I am usually happy to help with testing with most of my devices. Reach out via  [Telegram](https://t.me/AndroidAsh) or Github comments.
 
